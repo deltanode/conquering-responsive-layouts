@@ -1,0 +1,6 @@
+we've looked at:
+1. Using percentages for widths
+2. Avoiding to set heights
+3. Using max-width
+5. Relative Units-em-rem
+6. Units-vh-vm-vmin-vmax
