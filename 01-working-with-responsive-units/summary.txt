@@ -4,3 +4,4 @@ we've looked at:
 3. Using max-width
 5. Relative Units-em-rem
 6. Units-vh-vm-vmin-vmax
+7. BEM naming convention for CSS
