@@ -7,6 +7,9 @@ Till now, we've looked at:
           Or
    Why em can be Dangerous ?
 5. Using max-width
-
 6. Units-vh-vm-vmin-vmax
-   YOUTUBE: https://www.youtube.com/watch?v=IWFqGsXxJ1E
+
+Some extra material:
+7. BEM naming convention for CSS  - https://youtu.be/SLjHSVwXYq4
+8. Emmet documentation            - https://docs.emmet.io/
+9. box-sizing: border-box         - https://youtu.be/WlGQdgy-M6w

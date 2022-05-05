@@ -1,0 +1,25 @@
+Till now, we've looked at:
+
+1. Using percentages for widths
+2. Avoiding to set heights
+3. Relative Units-em-rem
+4. Why you shouldn't set font-sizes using em ?
+          Or
+   Why em can be Dangerous ?
+
+
+5. Using max-width
+
+   - The max-width property defines the maximum width of an element.
+   - If the content is larger than the maximum width, it will automatically change the height of 
+     the element.
+   - If the content is smaller than the maximum width, the max-width property has no effect.
+
+    Note: This prevents the value of the width property from becoming larger than max-width. 
+          The value of the max-width property overrides the width property.
+
+
+   - A Tale of width and max-width
+     An interesting look at the two properties, and how they might not always act the way you think 
+     they will. 
+     Reference - https://css-tricks.com/tale-width-max-width/

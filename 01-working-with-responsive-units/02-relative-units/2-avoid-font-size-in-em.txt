@@ -1,12 +1,16 @@
 Till now, we've looked at:
-
 1. Using percentages for widths
 2. Avoiding to set heights
 3. Relative Units-em-rem
-4. Why you shouldn't set font-sizes using em ?
-          Or
-   Why em can be Dangerous ?
-5. Using max-width
 
-6. Units-vh-vm-vmin-vmax
-   YOUTUBE: https://www.youtube.com/watch?v=IWFqGsXxJ1E
+4. Why you shouldn't set font-sizes using em ?
+        Or
+   Why em can be Dangerous ?
+
+Sol: - Use rem for font's
+       &
+       Use em for other properties like (margin for button)
+
+     YT Reference: https://www.youtube.com/watch?v=pautqDqa54I
+
+
