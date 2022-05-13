@@ -1,15 +1,21 @@
 Till now, we've looked at:
 
 1. Using percentages for widths
+   Challenge 01
+
 2. Avoiding to set heights
 3. Relative Units-em-rem
 4. Why you shouldn't set font-sizes using em ?
           Or
    Why em can be Dangerous ?
+   
 5. Using max-width
+   Challenge 02
 6. Units-vh-vm-vmin-vmax
 
+7. Practice: Challenge 03
+
 Some extra material:
-7. BEM naming convention for CSS  - https://youtu.be/SLjHSVwXYq4
-8. Emmet documentation            - https://docs.emmet.io/
-9. box-sizing: border-box         - https://youtu.be/WlGQdgy-M6w
+8. BEM naming convention for CSS  - https://youtu.be/SLjHSVwXYq4
+9. Emmet documentation            - https://docs.emmet.io/
+10. box-sizing: border-box         - https://youtu.be/WlGQdgy-M6w
